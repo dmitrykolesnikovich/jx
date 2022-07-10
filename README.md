@@ -1,3 +1,11 @@
+It's a research project.
+
+WEBSITE: https://www4.cs.fau.de/Projects/JX  
+
+VIDEO: https://www.youtube.com/watch?v=CxjrX6EqHJg
+
+BOOKS: `BOOKS/jx-sec.pdf`, `BOOKS/The JX Operating System.pdf`
+
 This repo exists to preserve the JX project.
 
 Here is what its all about:
